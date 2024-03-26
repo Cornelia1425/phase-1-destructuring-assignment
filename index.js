@@ -159,3 +159,6 @@ const array4 = [1, 2, 3, 4, 5];
 console.log("array4.splice(0, 1): ",array4.splice(0, 1)) // output [2,3]
 console.log("array4: ",array4); // Output: [1, 3, 4, 5]
 */
+
+
+//https://learning.flatironschool.com/courses/7589/assignments/276308?module_item_id=670197
